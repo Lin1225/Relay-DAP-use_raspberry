@@ -1,0 +1,2 @@
+raspberry
+-DCATKIN_DEVEL_PREFIX=/home/iclab/Desktop/raspberry/devel -DCMAKE_INSTALL_PREFIX=/home/iclab/Desktop/raspberry/install -G Unix Makefiles

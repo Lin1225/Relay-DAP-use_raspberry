@@ -1,0 +1,8 @@
+prefix=/home/iclab/Desktop/raspberry/install
+
+Name: raspberry
+Description: Description of raspberry
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iclab/Desktop/raspberry/install/lib 
+Requires: 
